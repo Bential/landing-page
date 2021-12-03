@@ -1,0 +1,15 @@
+.containerv2{
+    background: #222222;
+    width: 1500px;
+    margin: auto;
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+
+.containerv2 h2{
+    color: white;
+    display: block;
+    font-weight: bold;
+    font-family: 'Chivo', sans-serif;
+    text-align: center;
+}

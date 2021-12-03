@@ -1,0 +1,24 @@
+	.banner{
+		background-image: radial-gradient(circle, rgba(0,0,0,0.3956933115042892) 41%, rgba(255,255,255,0.13518910982361698) 100%), url("https://static.broceliande.xyz/local/cache-vignettes/L2048xH1366/triomphe_des_ecoles_militaires_de_st_cyr_coetquidan_gmav-d30f9.jpg?1527604073");
+		background-size: cover;
+    	background-position: center;
+    	margin-top: 1px;
+    	padding: 200px;
+    	padding-top: 1px;
+    	text-align: center;
+	}
+	h1{
+    	color: white;
+    	font-weight: bold;
+    	font-size: 36px;
+    	font-family: 'Chivo', sans-serif;
+    	text-align: center;
+	}
+	
+	h2{
+    	color: white;
+    	display: block;
+    	font-weight: bold;
+    	font-family: 'Chivo', sans-serif;
+    	text-align: center;
+	}

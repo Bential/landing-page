@@ -1,0 +1,19 @@
+.end-page{
+	background-image: linear-gradient(270deg, rgba(34,34,34,0.6797093837535014) 50%, rgba(36,36,110,0) 100%), url("https://www.studyrama.com/local/cache-gd2/53/d3943de5eb072235e971f90b0e59d7.jpg?1607617237");
+	background-size: cover;
+   	background-position: center;
+   	margin-top: 0px;
+   	padding:4px;
+   	padding-top: 50px;
+   	text-align: center;
+}
+
+.end-page h4{
+	color: white;
+    display: block;
+    font-size: 20px;
+    font-family: 'Chivo', sans-serif;
+    text-align: right;
+    margin-left: 800px;
+    margin-bottom: 100px;
+}

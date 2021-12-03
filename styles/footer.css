@@ -1,0 +1,19 @@
+.footer{
+    background-color: #404042;
+    text-align: center;
+    padding: 24px;
+}
+
+div{
+    display: block;
+}
+
+p{
+    color: white;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: 'Chivo', sans-serif;
+}

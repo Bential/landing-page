@@ -1,0 +1,14 @@
+.container{
+	background: #222222;
+    width: 800px;
+    margin: auto;
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+.container h2{
+    color: white;
+    display: block;
+    font-weight: bold;
+    font-family: 'Chivo', sans-serif;
+    text-align: center;
+}
